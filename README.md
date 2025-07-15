@@ -6,12 +6,12 @@ The JobPulse Dashboard Project is designed to analyze and visualize job posting 
 ## Main Features
  **1. Job Posting Analysis:**    
  
-        - Total Postings: Displays the total number of job postings which was 1.75K.     
-        - Average Experience: Shows the average years of experience required 4.85.   
-        - Trends Over Time: Visualizes the number of job postings by year.   
-        - Industry Distribution: Highlights the top 10 company industries by total postings.   
-        - Geographical Distribution: Maps job postings by location using a heat map.   
-        - Job Position Type Breakdown: Illustrates the proportion of job types.    
+        • Total Postings: Displays the total number of job postings which was 1.75K.     
+        • Average Experience: Shows the average years of experience required 4.85.   
+        • Trends Over Time: Visualizes the number of job postings by year.   
+        • Industry Distribution: Highlights the top 10 company industries by total postings.   
+        • Geographical Distribution: Maps job postings by location using a heat map.   
+        • Job Position Type Breakdown: Illustrates the proportion of job types.    
 
  **2. User Interaction Evaluation:**
 
