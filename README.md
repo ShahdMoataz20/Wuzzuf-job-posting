@@ -25,7 +25,11 @@ The JobPulse Dashboard Project is designed to analyze and visualize job posting 
        <img width="717" height="216" alt="image" src="https://github.com/user-attachments/assets/a8b7e631-9437-46ce-b4f6-d26b1d112027" />
 
 ## Dataset
-- Source: [Wuzzuf Egypt Job Postings]
+- Source: [Wuzzuf Egypt Job Postings](http://bit.ly/4kFww6X)
+- Records: 25,000+ job listings
+- Fields: Job Title, Job Skills, Years of Experience, Number of Applicants, etc.
+
+
 
 
 
