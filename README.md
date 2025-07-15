@@ -4,5 +4,6 @@ The JobPulse Dashboard Project is designed to analyze and visualize job posting 
 🔗 [Power BI Report Link](https://app.powerbi.com/view?r=eyJrIjoiNzg4YzM5ZTYtZjVjYS00OWY2LTk2OGEtNjk0OWUxYWVmMjk5IiwidCI6Ijk1Y2Q0NmVkLTYwMzktNDczOC04NTA3LWQ0ODYxNjBkZWIyZSJ9)
 
 ## Main Features
- **1.Job Posting Analysis:**
+ **1. Job Posting Analysis:**
+       Total Postings: Displays the total number of job postings which was 1.75K.
 
