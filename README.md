@@ -5,7 +5,6 @@ The JobPulse Dashboard Project is designed to analyze and visualize job posting 
 
 ## Main Features
  **1. Job Posting Analysis:**      
- 
         - Total Postings: Displays the total number of job postings which was 1.75K.     
         - Average Experience: Shows the average years of experience required 4.85.   
         - Trends Over Time: Visualizes the number of job postings by year.   
