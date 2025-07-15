@@ -4,7 +4,8 @@ The JobPulse Dashboard Project is designed to analyze and visualize job posting 
 🔗 [Power BI Report Link](https://app.powerbi.com/view?r=eyJrIjoiNzg4YzM5ZTYtZjVjYS00OWY2LTk2OGEtNjk0OWUxYWVmMjk5IiwidCI6Ijk1Y2Q0NmVkLTYwMzktNDczOC04NTA3LWQ0ODYxNjBkZWIyZSJ9)
 
 ## Main Features
- **1. Job Posting Analysis:**      
+ **1. Job Posting Analysis:**    
+ 
         - Total Postings: Displays the total number of job postings which was 1.75K.     
         - Average Experience: Shows the average years of experience required 4.85.   
         - Trends Over Time: Visualizes the number of job postings by year.   
@@ -14,7 +15,8 @@ The JobPulse Dashboard Project is designed to analyze and visualize job posting 
 
  **2. User Interaction Evaluation:**
 
-         -
+         • Session Duration: Calculates the time spent by users on the dashboard. 
+
 
 
 
