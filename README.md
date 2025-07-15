@@ -24,7 +24,8 @@ The JobPulse Dashboard Project is designed to analyze and visualize job posting 
        Supports filters, slicers, and drill-downs to explore data at different granularity levels. 
        <img width="717" height="216" alt="image" src="https://github.com/user-attachments/assets/a8b7e631-9437-46ce-b4f6-d26b1d112027" />
 
-
+## Dataset
+- Source: [Wuzzuf Egypt Job Postings]
 
 
 
