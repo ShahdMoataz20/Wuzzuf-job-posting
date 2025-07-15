@@ -29,6 +29,9 @@ The JobPulse Dashboard Project is designed to analyze and visualize job posting 
 - Records: 25,000+ job listings
 - Fields: Job Title, Job Skills, Years of Experience, Number of Applicants, etc.
 
+## Full Project Documentation
+👉 see here [Project Documentation](http://bit.ly/4lQ2qOX)
+
 
 
 
